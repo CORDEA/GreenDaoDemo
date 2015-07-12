@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\CORDEA\.gradle\caches\modules-2\files-2.1\de.greenrobot\greendao\1.3.7\dda08161d004c4df96938da6909f1c2b96cd33c8\greendao-1.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dda08161d004c4df96938da6909f1c2b96cd33c8">
+        <dex dex="C:\Users\CORDEA\AndroidStudioProjects\GreenDaoSample\app\build\intermediates\pre-dexed\debug\greendao-1.3.7-7d2d07006835facbc648e99788fbee5c4cf0cae5.jar" />
+    </item>
+
+</items>
